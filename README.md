@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently The CEO of ITACCESS<br>🌱 I’m currently AI Enfineering Student<br>💬 racheddhiaelhakk@gmail.com<br>
+🔭 I’m currently The CEO of SightLearn<br>🌱 I’m currently AI Enfineering Student<br>💬 racheddhiaelhakk@gmail.com<br>
 
 
 ## 🌐 Socials:
