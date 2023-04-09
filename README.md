@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhia el hak Rached</h1>
 <h3 align="center">A passionate Ai && Full stack developer from Tunisia</h3>
-<img src="https://thumbs.gfycat.com/WealthyBelovedGreatdane-max-1mb.gif" alt="Animated GIF"/>
+<p align="center">
+  <img src="https://thumbs.gfycat.com/WealthyBelovedGreatdane-max-1mb.gif" alt="Animated GIF"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiaelhakrached&label=Profile%20views&color=0e75b6&style=flat" alt="dhiaelhakrached" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=dhiaelhakrached](https://github.com/Dhiaelhak-Rached)" alt="dhiaelhakrached" /></a> </p>
 
