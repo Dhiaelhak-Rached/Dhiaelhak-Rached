@@ -5,7 +5,6 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=dhiaelhakrached](https://github.com/Dhiaelhak-Rached)" alt="dhiaelhakrached" /></a> </p>
 
 - 🔭 I’m currently The CEO of **Sight Learn**
 
