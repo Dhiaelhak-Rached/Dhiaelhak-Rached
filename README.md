@@ -6,8 +6,6 @@
 
 
 
-- 🔭 I’m currently The CEO of **Sight Learn**
-
 - 🌱 I’m currently learning **Next JS / electron**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhiaelhak-Rached](https://github.com/Dhiaelhak-Rached)
