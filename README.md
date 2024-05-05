@@ -4,9 +4,5 @@
   <img src="https://thumbs.gfycat.com/WealthyBelovedGreatdane-max-1mb.gif" alt="Animated GIF"/>
 </p>
 
-
-
-- 🌱 I’m currently learning **Next JS / electron**
-
 - 📫 How to reach me **racheddhiaelhakk@gmail.com**
 
