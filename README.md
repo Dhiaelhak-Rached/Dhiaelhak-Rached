@@ -67,8 +67,8 @@ Hands-on projects using TensorFlow & PyTorch for computer vision & NLP.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhiaelhak-Rached&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiaelhak-Rached&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 ---
