@@ -1,47 +1,85 @@
-<h1 align="center">Hi 👋, I'm Dhia el hak Rached</h1>
+<h1 align="center">👋 Hi, I'm Dhia el hak Rached</h1>
 <h3 align="center">AI & Cybersecurity Engineer | DNS Security | Machine Learning | Predictive Maintenance</h3>
 
 <p align="center">
-  <img src="https://thumbs.gfycat.com/WealthyBelovedGreatdane-max-1mb.gif" alt="Animated GIF" width="300"/>
+  <img src="https://thumbs.gfycat.com/WealthyBelovedGreatdane-max-1mb.gif" alt="Animated GIF" width="250"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 AI & Cybersecurity Engineer (ESPRIT, Tunisia – 2025)  
-- 🔬 Specialized in **DNS security, anomaly detection, and AI-driven threat detection**  
-- 💡 Experienced in **predictive maintenance, ML model deployment, and system optimization**  
-- 🌍 Research background with **Landshut University (Germany)** and **Dräxlmaier**  
-- 🛠️ Passionate about building **secure, scalable AI systems** bridging research & industry  
+## 👨‍💻 About Me
+- 🎓 **AI & Cybersecurity Engineering Student** @ ESPRIT (Graduating 2025)  
+- 🔬 Specialized in **DNS Security, Anomaly Detection, and AI-driven Threat Detection**  
+- 🌍 Research background: **Landshut University (Germany)** & **Dräxlmaier**  
+- ⚡ Passionate about bridging **research & real-world applications** with scalable AI systems  
+- 💡 Interests: **AI Security, Predictive Maintenance, and Distributed DNS Protocols**  
 
 ---
 
-### 🛠️ Tech Stack  
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+## 🛠️ Tech Stack
+<table>
+<tr>
+<td>
+
+**Languages**  
+✔️ Python  
+✔️ C/C++  
+✔️ Java  
+
+</td>
+<td>
+
+**AI / ML**  
+✔️ TensorFlow  
+✔️ PyTorch  
+✔️ Scikit-learn  
+
+</td>
+<td>
+
+**DevOps & Tools**  
+✔️ Docker & Kubernetes  
+✔️ Git / GitHub  
+✔️ Linux (Main Host)  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects  
-- 🔐 **DNS Anomaly Detection System** – AI-driven detection of DNS tunneling & suspicious traffic  
-- ⚡ **Predictive Maintenance Platform** – ML models predicting equipment failures in real-time  
-- 🛡️ **Security Research Tools** – Analysis of **BIND9 vulnerabilities** & custom protocol design  
-- 🤖 **Deep Learning Applications** – TensorFlow & PyTorch projects for real-world use cases  
+## 🚀 Featured Projects
+🔐 **DNS Anomaly Detection System**  
+AI-driven detection of DNS tunneling & malicious traffic patterns.  
 
-*(More projects on my [GitHub Repositories](https://github.com/your-username))*  
+⚡ **Predictive Maintenance Platform**  
+Machine learning system predicting equipment failures in real-time.  
+
+🛡️ **BIND9 Security Research**  
+Source code analysis & vulnerability exploration + proposal for **custom DNS security protocol**.  
+
+🤖 **Deep Learning Applications**  
+Hands-on projects using TensorFlow & PyTorch for computer vision & NLP.  
+
+👉 Explore more on my [GitHub Repositories](https://github.com/your-username)  
 
 ---
 
-### 📫 Connect With Me  
-- 📧 Email: **racheddhiaelhakk@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🌐 [Portfolio / Personal Website](#) *(if you have or want one, we can set it up)*  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
 
 ---
-⭐️ From [Dhia el hak Rached](https://github.com/your-username)  
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:racheddhiaelhakk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ From [Dhia el hak Rached](https://github.com/your-username)
