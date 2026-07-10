@@ -1,99 +1,151 @@
-| |
-|:--:|
-| ![Mr Robot](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif) |
-| # Dhia el Hak Rached |
-| **AI & Cybersecurity Engineer** |
+![logo](supun-new.png)
+&lt;!-- &lt;img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"&gt;&lt;img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"&gt; --&gt;
+&lt;img align="left" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05a9468d5596.gif" width="10%" style="display:inline;"&gt;&lt;img align="right" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05a9468d5596.gif" width="10%" style="display:inline;"&gt;
 
-| | | |
-|:--:|:--:|:--:|
-| [![GitHub](https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif)](https://github.com/Dhiaelhak-Rached) | [![LinkedIn](https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif)](https://www.linkedin.com/in/dhiaelhak-rached/) | [![Email](https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif)](mailto:racheddhiaelhakk@gmail.com) |
+&lt;h1 align="center"&gt;Hi 👋, I'm Dhia el Hak Rached&lt;/h1&gt;
+&lt;h3 align="center"&gt;A passionate AI & Cybersecurity Engineer from Tunisia&lt;/h3&gt;
+&lt;p align="center"&gt;I am fascinated by how AI-driven cybersecurity 🛡️ has transformed network defense; witnessing the evolution of intelligent threat detection allowed me to specialize in software engineering with a security focus from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build resilient, high-impact systems 🛠️&lt;/p&gt;
+&lt;p align="center"&gt; 
+ &lt;img src="https://komarev.com/ghpvc/?username=Dhiaelhak-Rached&label=Profile%20views&color=0e75b6&style=flat" alt="Dhia el Hak Rached" /&gt; 
+&lt;!--  &lt;img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Dhia el Hak Rached's languages" /&gt; --&gt;
+&lt;!--  &lt;img alt="Profile followers" src="https://img.shields.io/github/followers/Dhiaelhak-Rached"&gt; --&gt;
+&lt;/p&gt;
 
-![Profile views](https://komarev.com/ghpvc/?username=Dhiaelhak-Rached&label=Profile%20views&color=0e75b6&style=flat)
+&lt;div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;"&gt;
+  &lt;img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" /&gt;
+  &lt;img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50"/&gt;
+  &lt;img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50"/&gt;
+  &lt;img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50"/&gt;
+  &lt;img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/&gt;
+ &lt;img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50"/&gt;
+&lt;/div&gt;
 
-![Gradient Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+&lt;br&gt;
 
-## 🧠 About Me
+&lt;div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;"&gt;
+  &lt;img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="50"/&gt;
+  &lt;img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50"/&gt;
+  &lt;img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50"/&gt;
+  &lt;img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50"/&gt;
+  &lt;img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50"/&gt;
+  &lt;img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50"/&gt;
+&lt;/div&gt;
 
-I am fascinated by how **AI-driven cybersecurity** 🛡️ has transformed network defense; witnessing the evolution of intelligent threat detection allowed me to specialize in software engineering with a security focus from an early age, and my enthusiasm has perpetually developed since this time. I love exploring new tech stacks 💻 and leveraging them to build resilient, high-impact systems 🛠️.
+&lt;img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"&gt;
+&lt;br&gt;&lt;br&gt;
 
-My work focuses on **bridging applied AI with real-world network protection**, leveraging scalable architectures, automation, and data-driven intelligence.
+- 🔭 I’m currently working on **next-gen DNS anomaly detection pipelines**
 
-- 🎓 Graduated from **ESPRIT, Tunisia (2025)**
-- 🌍 Research collaboration with **Landshut University (Germany)** and **Dräxlmaier**
-- 🧩 Core expertise: **DNS Security · AI Threat Detection · Distributed Protocols · Predictive Maintenance**
-- ⚙️ Passion: Converting **research** into **deployable, high-impact cybersecurity systems**
+- 🌱 I’m currently learning **LLM-based threat intelligence & adversarial ML**
 
-![Fading Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+- 👨‍💻 All of my projects are available at [Dhia's workspace](https://github.com/Dhiaelhak-Rached)
 
-## 🛠️ Tech Stack
+- 💬 Ask me about **Python, C, C++, Java, ML, and DNS Security**
 
-![Python](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
-![C](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)
-![C++](https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif)
-![Java](https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif)
-![Docker](https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif)
-![Linux](https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif)
-![Git](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
+- 📫 How to reach me **racheddhiaelhakk@gmail.com**
 
-| | |
-|:--|:--:|
-| - 🔭 I’m currently working on **next-gen DNS anomaly detection pipelines**&lt;br&gt;- 🌱 I’m currently learning **LLM-based threat intelligence & adversarial ML**&lt;br&gt;- 👨‍💻 All of my projects are available at **[github.com/Dhiaelhak-Rached](https://github.com/Dhiaelhak-Rached)**&lt;br&gt;- 💬 Ask me about **Python, C, C++, Java, ML, and DNS Security**&lt;br&gt;- 📫 How to reach me: **racheddhiaelhakk@gmail.com**&lt;br&gt;- 📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/dhiaelhak-rached/)**&lt;br&gt;- ⚡ Fun fact: **I think DNS is the most underrated attack vector** | ![Awesome Workspace](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif) |
+- 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/dhiaelhak-rached/)
 
-![Gradient Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+- ⚡ Fun fact **I think DNS is the most underrated attack vector**
 
-## 🔗 Connect with Me
+&lt;br&gt;
+&lt;h3 align="left"&gt;Connect with me:&lt;/h3&gt;
+&lt;div style="display: flex; justify-content: center; align-items: center; gap: 15px;"&gt;
+&lt;!-- &lt;p align="left"&gt; --&gt;
+&lt;a href="https://github.com/Dhiaelhak-Rached" target="blank"&gt;&lt;img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Dhiaelhak-Rached" width="40" /&gt;&lt;/a&gt;
+&lt;a href="https://linkedin.com/in/dhiaelhak-rached" target="blank"&gt;&lt;img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiaelhak-rached" width="40" /&gt;&lt;/a&gt;
+&lt;a href="mailto:racheddhiaelhakk@gmail.com" target="blank"&gt;&lt;img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="racheddhiaelhakk@gmail.com" width="40" /&gt;&lt;/a&gt;
+&lt;!-- &lt;/p&gt; --&gt;
+ &lt;/div&gt;
+&lt;br&gt;
 
-| | | |
-|:--:|:--:|:--:|
-| [![GitHub](https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif)](https://github.com/Dhiaelhak-Rached) | [![LinkedIn](https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif)](https://www.linkedin.com/in/dhiaelhak-rached/) | [![Email](https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif)](mailto:racheddhiaelhakk@gmail.com) |
+&lt;!-- &lt;img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"&gt; --&gt;
 
-![Gradient Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+&lt;h3 align="left"&gt;Languages and Tools:&lt;/h3&gt;
 
-## 🧰 Languages and Tools
+- Backend
+&lt;p align="left"&gt;
+  &lt;a href="https://skillicons.dev"&gt;
+    &lt;img src="https://skillicons.dev/icons?i=python,java,c,cpp" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-### Languages
-![Python C C++ Java](https://skillicons.dev/icons?i=python,c,cpp,java)
+- AI / ML
+&lt;p align="left"&gt;
+  &lt;a href="https://skillicons.dev"&gt;
+    &lt;img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-### AI & Machine Learning
-![TensorFlow PyTorch Scikit-learn Pandas NumPy](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy)
+- Security & Networking
+&lt;p align="left"&gt;
+  &lt;a href="https://skillicons.dev"&gt;
+    &lt;img src="https://skillicons.dev/icons?i=linux,git,docker" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-### Security & Networking
-`Scapy` · `Wireshark` · `BIND9` · `DNSSEC` · `n8n`
+- DevOps & Cloud
+&lt;p align="left"&gt;
+  &lt;a href="https://skillicons.dev"&gt;
+    &lt;img src="https://skillicons.dev/icons?i=aws,kubernetes,github" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-### DevOps & Tools
-![Docker Kubernetes Git Linux GitHub VSCode](https://skillicons.dev/icons?i=docker,kubernetes,git,linux,github,vscode)
+- Tools
+&lt;p align="left"&gt;
+  &lt;a href="https://skillicons.dev"&gt;
+    &lt;img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-![Gradient Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+&lt;br/&gt;
 
-## 🚀 Featured Projects
+&lt;!-- &lt;img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"&gt; --&gt;
 
-| DNS Anomaly Detection | BIND9 Security Analysis |
-|:--|:--|
-| ML-driven system detecting DNS tunneling, cache poisoning, and resolver abuse. | Reverse engineering & vulnerability analysis with a proposed custom DNS integrity protocol. |
-| `Python` `TensorFlow` `Scapy` | `C` `DNSSEC` `Linux` |
+&lt;!-- &lt;h3 align="left"&gt;Trophy:&lt;/h3&gt;
 
-| Predictive Maintenance | Paper2Attack Framework |
-|:--|:--|
-| Real-time failure prediction using streaming sensor data in production environments. | Parses academic papers to extract attack parameters and auto-simulates them via Scapy. |
-| `PyTorch` `Pandas` `Docker` | `Python` `Scapy` `n8n` |
+&lt;p align="center"&gt;
+&lt;img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"&gt;&lt;/p&gt;
+  
+&lt;div align="center"&gt;
+&lt;img src="https://github-profile-trophy.vercel.app/?username=Dhiaelhak-Rached&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews"&gt;
+ &lt;/div&gt;
 
-![Gradient Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+&lt;div align="center"&gt;
+&lt;img src="https://github-profile-trophy.vercel.app/?username=Dhiaelhak-Rached&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers"&gt;
+ &lt;/div&gt;
+ &lt;br&gt;&lt;br&gt;
 
-## 📊 GitHub Stats
+&lt;!-- &lt;img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"&gt; --&gt;
 
-| |
-|:--:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhiaelhak-Rached&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true) |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhiaelhak-Rached&theme=github-dark-blue&hide_border=true) |
+&lt;!-- &lt;h3 align="left"&gt;GitHub Stats:&lt;/h3&gt;
+&lt;div align="center"&gt; --&gt;
+ 
+&lt;!-- ![Dhia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhiaelhak-Rached\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) --&gt;
 
-| |
-|:--:|
-| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiaelhak-Rached&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true) |
+&lt;!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Dhiaelhak-Rached&theme=midnight-purple)](https://git.io/streak-stats) --&gt;
 
-![Gradient Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+&lt;/div&gt;
 
-| |
-|:--:|
-| ![Eat Sleep Code](https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif) |
-| *I love connecting with different people so if you want to say hi, I'll be happy to meet you more!* |
-| **© 2025 Dhia el Hak Rached** — AI, Security, and Scalable Intelligence Systems. |
+&lt;!-- &lt;br&gt;&lt;br&gt; --&gt;
+
+&lt;!-- &lt;img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"&gt; --&gt;
+
+&lt;!-- &lt;h3 align="left"&gt;Activity:&lt;/h3&gt;
+
+![Dhiaelhak-Rached's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhiaelhak-Rached&custom_title=Dhia's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+&lt;br&gt;&lt;br&gt;
+
+&lt;img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"&gt; --&gt;
+
+&lt;h3 align="left"&gt;Achievements:&lt;/h3&gt;
+
+[![An image of @Dhiaelhak-Rached's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Dhiaelhak-Rached)](https://holopin.io/@Dhiaelhak-Rached)
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+&lt;!-- &lt;img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"&gt; --&gt;
+
+&lt;img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"&gt; &lt;em&gt;&lt;b&gt;I love connecting with different people&lt;/b&gt; so if you want to say &lt;b&gt;hi, I'll be happy to meet you more!&lt;/b&gt; :)&lt;/em&gt;
+
+&lt;br&gt;
+&lt;p align="right" &gt; Created with 🧡 by &lt;a href="https://github.com/Dhiaelhak-Rached"&gt;Dhia el Hak Rached&lt;/a&gt;&lt;/p&gt;
